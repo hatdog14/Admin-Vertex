@@ -1,0 +1,17 @@
+{
+    "name": "kianm/admin-vertex",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kianm\\AdminVertex\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hatdog14",
+            "email": "kianmendoza4455@gmail.com"
+        }
+    ],
+    "require": {}
+}
